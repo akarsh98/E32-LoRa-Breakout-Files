@@ -23,8 +23,6 @@ Do check them out if you need to get PCBs manufactured or assembled.
 
 ![alt text](https://github.com/akarsh98/Reyax-RYB080I-Bluetooth-module-with-ESP8266/blob/master/ss/pcbgogo.JPG?raw=true)
 
-![alt text](https://github.com/akarsh98/ESP32-LoRa-Relay-Control-Code-and-Circuit/blob/master/screenshots/PCBWAY.JPG?raw=true)
-
 ![alt text](https://github.com/akarsh98/E32-LORA-MODULE-BREAKOUT-BOARD/blob/master/images/E32_1_B.JPG?raw=true)
 ###                                              BACK SIDE IMAGE OF THE PCB
 
