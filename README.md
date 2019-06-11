@@ -5,7 +5,11 @@
 
 Video tutorial : 
 
-This PCB is a breakout board for the E32 LoRa module from Ebyte/Cdebyte, This module:
+This PCB is a breakout board for the E32 LoRa module from Ebyte/Cdebyte.
+You can buy the module from LCSC from the following links:
+E32 100mW module: [HERE](https://bit.ly/2ZjbLo6)
+E32 1W module: [HERE](https://bit.ly/2R4xxct)
+Antenna: [HERE](https://bit.ly/2WBUk5A)
 ![alt text](https://github.com/akarsh98/E32-LORA-MODULE-BREAKOUT-BOARD/blob/master/images/e32.jpg?raw=true)
 
 The breakout board gives access to the Rx and Tx pins of the LoRa module. Apart from that there are 4 status LEDS for showing the current status of the module. 
