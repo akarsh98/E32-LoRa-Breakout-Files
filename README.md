@@ -6,7 +6,7 @@
 Video tutorial : 
 
 This PCB is a breakout board for the E32 LoRa module from Ebyte/Cdebyte.
-You can buy the module from LCSC from the following links:
+You can buy the module from [LCSC](https://lcsc.com/) from the following links:
 
 E32 100mW module: [HERE](https://bit.ly/2ZjbLo6)
 
